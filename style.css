@@ -1,0 +1,21 @@
+
+    body {
+        background: aquamarine;
+       font-family: "Helvetica";
+       padding: 15vmax;
+    }
+    #vid{
+        padding: 15vmax;
+    }
+
+h2 {
+    font-size: 40px
+}
+
+p{
+    font-style: italic
+}
+
+ul{
+    list-style-type: none;
+}
